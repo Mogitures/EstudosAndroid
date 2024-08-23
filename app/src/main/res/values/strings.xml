@@ -10,4 +10,9 @@
     <string name="recuperar_conta">Recuperar Conta</string>
     <string name="botao_para_cadastrar">Botao para cadastrar</string>
     <string name="cadastrar">Cadastrar</string>
+    <string name="recuperar_email">Insira seu e-mail para que possamos iniciar o processo de recuperação de senha.</string>
+    <string name="recuperar_email_title">Recuperação de E-mail</string>
+    <string name="email_recuperar">email recuperar</string>
+    <string name="recuperar_senha">Recuperar senha</string>
+    <string name="botao_para_recuperar_conta2">botao para recuperar conta</string>
 </resources>
