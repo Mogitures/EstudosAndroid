@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MogApp</string>
+    <string name="senha">Senha</string>
+    <string name="e_mail">E-mail</string>
+    <string name="email_do_login">Email do login</string>
+    <string name="senha_do_login">Senha do login</string>
+    <string name="botao_para_entrar">Botão para entrar</string>
+    <string name="entrar">Entrar</string>
+    <string name="botao_para_recuperar_conta">botao para recuperar conta</string>
+    <string name="recuperar_conta">Recuperar Conta</string>
+    <string name="botao_para_cadastrar">Botao para cadastrar</string>
+    <string name="cadastrar">Cadastrar</string>
+</resources>
