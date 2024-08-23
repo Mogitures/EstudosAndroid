@@ -17,7 +17,7 @@
         android:layout_marginBottom="30dp"
         android:contentDescription="Imagem do login"
         android:scaleType="centerCrop"
-        android:src="#333333" />
+        android:src="@drawable/penguin" />
 
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
